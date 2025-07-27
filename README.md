@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning APEX and database management.
 - 💞️ I’m looking to collaborate on any project that helps develop my skills.
 - ⚡ Fun fact: This all started because I was playing games and wanted to make my own game.
+- 💯 Also a guy that pushes himself past his limits and seeks new challenges.
 
 <!---
 daniel-apexdev/daniel-apexdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
