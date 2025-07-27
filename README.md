@@ -8,3 +8,4 @@
 daniel-apexdev/daniel-apexdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FmbW55Nmd0Ym96ZHFyeDR0dDF4dGN5MXdicjZxZnVnM3I0NGozbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rZdexojlQ1WcqXqSWO/giphy.gif"></img>
