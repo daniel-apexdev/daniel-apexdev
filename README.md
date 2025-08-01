@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FmbW55Nmd0Ym96ZHFyeDR0dDF4dGN5MXdicjZxZnVnM3I0NGozbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rZdexojlQ1WcqXqSWO/giphy.gif"></img>
 
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Some Tools I Have Used and Still Learning Around</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="bash" width="45" height="45"/>
